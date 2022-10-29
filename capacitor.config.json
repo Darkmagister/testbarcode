@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "testbarcode",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
